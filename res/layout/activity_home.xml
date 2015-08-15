@@ -13,6 +13,6 @@
     android:layout_marginRight="10dp"
     android:layout_marginTop="10dp"
     android:text="Show Apps"
-    android:onClick="showAppls" />
+    android:onClick="showApps" />
 
 </RelativeLayout>
